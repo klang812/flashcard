@@ -1,0 +1,19 @@
+h1 {text-align: center;
+}
+
+.card  {
+  margin-top: 30px;
+}
+
+.card:hover {
+  background-color: aqua;
+}
+
+.card-front {
+  text-align: center; 
+}
+
+.card-back {
+  text-align: center;
+  display: none;
+}
